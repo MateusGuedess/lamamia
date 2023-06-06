@@ -45,10 +45,10 @@
 
 @keyframes move {
     from {
-      transform: translateY(-10px)
+      transform: translateY(-15px)
     }
     to {
-      transform: translateY(10px) scale(1.03)
+      transform: translateY(0px) scale(1.03)
     }
     
   }

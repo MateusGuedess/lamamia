@@ -1,6 +1,8 @@
 import React from 'react'
 
-function Category() {
+function Category({params}) {
+
+  console.log(params)
   return (
     <div>Category</div>
   )
